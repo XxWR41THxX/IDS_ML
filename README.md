@@ -1,4 +1,4 @@
-# IDS_ML
+# AI_XDR_ML
 
 This is a small example  Machine Learning with Python
 
