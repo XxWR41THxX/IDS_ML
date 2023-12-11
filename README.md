@@ -1,6 +1,6 @@
 # AI_XDR_ML
 
-This is a small example  Machine Learning with Python
+This is a small example of Machine Learning with Python
 
 With the AI revolution upon us, I wanted to research how in the Cybersecurity Space we can begin to also take advantage of the benefits of the new AI Models in the Cyber Space
 
